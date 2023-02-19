@@ -1,6 +1,6 @@
 import { async } from "regenerator-runtime";
 import { TIMEOUT_SEC } from "./config.js";
-import { Fraction } from "fractional";
+// import { Fraction } from "fractional";
 
 const timeout = function (s) {
   return new Promise(function (_, reject) {

@@ -1,4 +1,4 @@
-import { Fraction } from "fractional";
+// import { Fraction } from "fractional";
 import icons from "../../images/icons.svg"; // Parcel 2
 
 export default class View {
